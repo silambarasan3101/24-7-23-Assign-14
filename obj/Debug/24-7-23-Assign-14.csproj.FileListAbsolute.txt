@@ -1,0 +1,8 @@
+E:\hd\24-7-23-Assign-14\24-7-23-Assign-14\bin\Debug\24-7-23-Assign-14.exe.config
+E:\hd\24-7-23-Assign-14\24-7-23-Assign-14\bin\Debug\24-7-23-Assign-14.exe
+E:\hd\24-7-23-Assign-14\24-7-23-Assign-14\bin\Debug\24-7-23-Assign-14.pdb
+E:\hd\24-7-23-Assign-14\24-7-23-Assign-14\obj\Debug\24-7-23-Assign-14.csproj.AssemblyReference.cache
+E:\hd\24-7-23-Assign-14\24-7-23-Assign-14\obj\Debug\24-7-23-Assign-14.csproj.SuggestedBindingRedirects.cache
+E:\hd\24-7-23-Assign-14\24-7-23-Assign-14\obj\Debug\24-7-23-Assign-14.csproj.CoreCompileInputs.cache
+E:\hd\24-7-23-Assign-14\24-7-23-Assign-14\obj\Debug\24-7-23-Assign-14.exe
+E:\hd\24-7-23-Assign-14\24-7-23-Assign-14\obj\Debug\24-7-23-Assign-14.pdb
